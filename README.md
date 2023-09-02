@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matthew Hughes. Currently a final year artficial intelligence and computer sceince student at the university of Birmingham
+- 👋 Hi, I’m Matthew Hughes. Recent graduate with a degree in artficial intelligence and computer sceince student at the university of Birmingham
 - 📫 How to reach me: 12hughesm@gmail.com
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matthew Hughes. Recent graduate with a degree in artficial intelligence and computer science from the University of Birmingham
+- 👋 Hi, I’m Matt. Recent graduate with a degree in artficial intelligence and computer science from the University of Birmingham
 - 📫 How to reach me: 12hughesm@gmail.com
 
 <!---
